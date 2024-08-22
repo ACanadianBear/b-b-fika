@@ -12,8 +12,8 @@ user/profiles
 
 ConsistencyInfo
 
-*.dll
-*.exe
-*.log
-*.ini
-*.txt
+/*.dll
+/*.exe
+/*.log
+/*.ini
+/*.txt
