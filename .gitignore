@@ -17,3 +17,5 @@ ConsistencyInfo
 /*.log
 /*.ini
 /*.txt
+
+InitializeServerFiles.bat
