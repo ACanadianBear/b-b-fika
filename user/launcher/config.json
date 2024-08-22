@@ -1,0 +1,14 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "English",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "C:\\Server Stuff\\Servers\\Bear FIKA",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": null,
+    "Name": "SPT",
+    "Url": "http://142.134.58.145:6969"
+  }
+}
