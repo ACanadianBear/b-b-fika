@@ -10,6 +10,8 @@ user/losg
 user/mods
 user/profiles
 
+ServerValueModifier
+
 ConsistencyInfo
 
 /*.dll
