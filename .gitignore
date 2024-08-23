@@ -19,5 +19,5 @@ ConsistencyInfo
 /*.log
 /*.ini
 /*.txt
-
+!BepInEx/plugins/*.dll
 InitializeServerFiles.bat
