@@ -6,10 +6,7 @@ MonoBleedingEdge
 Logs
 
 !user/cache
-user/losg
-user/mods
-user/profiles
-user/sptappdata
+user
 
 ServerValueModifier
 
