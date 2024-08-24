@@ -20,3 +20,4 @@ ConsistencyInfo
 !BepInEx/plugins/*.dll
 InitializeServerFiles.bat
 Greed.exe - Shortcut.lnk
+user/launcher/config.json
