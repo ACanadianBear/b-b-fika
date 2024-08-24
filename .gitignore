@@ -22,3 +22,4 @@ ConsistencyInfo
 /*.txt
 !BepInEx/plugins/*.dll
 InitializeServerFiles.bat
+Greed.exe - Shortcut.lnk

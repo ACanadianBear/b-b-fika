@@ -37,5 +37,5 @@ RMDIR /s /q "$TEMP_SPT_SETTINGS%"
 del /s /q "$LAUNCHER_TEMP%"
 
 echo "Starting launcher. Enjoy our adventures in Tarkov! :)"
-@echo off
+
 start "" SPT.Launcher.exe
