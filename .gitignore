@@ -5,8 +5,9 @@ NLog
 MonoBleedingEdge
 Logs
 
-!user/cache
 user
+!user/cache/*
+!user/launcher
 
 ServerValueModifier
 
